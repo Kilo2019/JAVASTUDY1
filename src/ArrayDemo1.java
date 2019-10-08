@@ -5,7 +5,7 @@ public class ArrayDemo1 {
         a=new int[5];//分配空间
         //以上两句可以携程：int[] a = new int[5]
         a[0] = 1;//赋值
-        a[1] = 2;
+        a[1] = 4;
         a[2] = 4;
         a[3] = 6;
         a[4] = 8;
